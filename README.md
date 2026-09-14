@@ -13,12 +13,8 @@
 <details open>
   <summary>💻 Tech stack</summary>
   <br/>
-  <div align="left">
-    <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <div align="left>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -89,7 +85,6 @@
 <details>
   <summary>💬 Random Quotes</summary>
   <br/>
-  <!-- Ganti quote-quote di bawah ini dengan versi kata-kata kamu sendiri -->
   <ul>
     <li><i>Bermimpilah setinggi langit, jika kau jatuh, kau akan jatuh di antara bintang-bintang</i> 🌟 </li>
     <br/>
